@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Repositorio SEDA
 
-_yay_
+
+*En construcción
 
 [back](./)
