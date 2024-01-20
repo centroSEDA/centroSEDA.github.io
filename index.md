@@ -46,4 +46,4 @@ El evento fue organizado por la Universidad Austral de Chile (UACH).
 
 [Link_1](https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas/ ).
 
-[](https://energia.gob.cl/noticias/nacional/subsecretaria-de-energia-y-grupo-de-universidades-firma-convenio-y-crea-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde)
+[https://energia.gob.cl/noticias/nacional/subsecretaria-de-energia-y-grupo-de-universidades-firma-convenio-y-crea-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde](https://energia.gob.cl/noticias/nacional/subsecretaria-de-energia-y-grupo-de-universidades-firma-convenio-y-crea-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde)
