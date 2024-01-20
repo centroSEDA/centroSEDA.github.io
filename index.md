@@ -6,9 +6,8 @@ layout: default
 
 [Repositorio SEDA](./another-page.html).
 
-There should be whitespace between paragraphs.
+El Centro NAcional de Soluciones Energéticas Desenctralizadas nace como una ....
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # _Instituciones_:
 
@@ -40,15 +39,12 @@ Las instituciones que han firmado el acurrdo de formación de SEDA son:
 El lanzamiento del centro SEDA ocurrió en valdivia el 19 de diciembre de 2023, con la participación de importantes autoridades nacionales y regionales.
 El evento fue organizado por la Universidad Austral de Chile (UACH).
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
 
 
+## Comunicaciones sobre el lanzamiento de SEDA
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Link_1](https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas/ ).
 
 ### Header 3
 
