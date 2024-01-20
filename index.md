@@ -2,19 +2,47 @@
 layout: default
 ---
 
-Centro Nacional en Desarrollo de Soluciones Energéticas Decentralizadas 
+# **Centro Nacional en Desarrollo de Soluciones Energéticas Decentralizadas**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[Repositorio SEDA](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# _Instituciones_:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Las instituciones que han firmado el acurrdo de formación de SEDA son:
+
+*   Universidad de Tarpacá (UTA)
+*   Universdad Arturo Prat (UNAP)
+*   Universidad de Antofagasta (UA)
+*   Universidad de Atacama (UAT)
+*   Universidad de La Serena
+*   Universidad Técnica Federico Santa María
+*   Universidad de Chile
+*   Universidad Adolfo Ibañez
+*   Pontificia Universidad Católica de Chile
+*   Universidad de OHiggins
+*   Universidad de Talca
+*   Universidad del Bio Bio
+*   Universidad de Concepción
+*   Universidad de La Frontera
+*   Universidad Austral
+*   UNiversidad de Los Lagos
+*   Universidad de Aysen
+*   Universidad de Magallanes
+*   EBP
+*   Fraunhofer Chile
+
+# Lanzamiento:
+
+El lanzamiento del centro SEDA ocurrió en valdivia el 19 de diciembre de 2023, con la participación de importantes autoridades nacionales y regionales.
+El evento fue organizado por la Universidad Austral de Chile (UACH).
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
 
 ## Header 2
 
