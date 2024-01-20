@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Centro Nacional en Desarrollo de Soluciones Energéticas Decentralizadas**
+# **Centro Nacional de Soluciones Energéticas Decentralizadas**
 
 [Repositorio SEDA](./another-page.html).
 
