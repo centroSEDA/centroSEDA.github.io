@@ -106,5 +106,9 @@
 | 22 | EBP Chile                  | Nicola Borregaard          | Economía                      | Femenino  |
 |    |                            | Pedro Arce                 | Ingeniería Mecánica           | Masculino |
 
+## Actores relevantes: 
+Corresponden a los actores indicados por las instituciones del EMI en las fichas institucionales, los cuales serían actores clave contraparte de proyectos u otras iniciativas asociadas al Centro Nacional SEDA. 
+
+![Colaboradores](/assets/img/RED.png)
 
 [back](./)
