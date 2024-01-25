@@ -4,9 +4,7 @@ layout: default
 
 # **Centro Nacional de Soluciones Energéticas Decentralizadas**
 
-[Historia](./Historia.html)
-
-[Misión y Visión](./Mision.html)
+[Historia](./Historia.html)  [Misión y Visión](./Mision.html)
 
 La Subsecretaría de Energía y la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile han recientemente firmado un convenio de colaboración y transferencia de recursos cuyo objetivo general es el establecimiento de una iniciativa permanente que se dedique a la innovación en soluciones energéticas descentralizadas, que permita impulsar el desarrollo en todas sus manifestaciones, con representación de las 16 regiones de nuestro territorio, con equipos de trabajo multidisciplinarios, con espíritu paritario y con enfoque de género, cuyo objeto es desplegar un trabajo colaborativo y conjunto con la finalidad de constituir el **_Centro de Soluciones Energéticas Descentralizadas Avanzadas (SEDA)_**.
 
