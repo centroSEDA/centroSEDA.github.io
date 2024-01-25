@@ -40,11 +40,5 @@ Las instituciones que han firmado el acurrdo de formación de SEDA son:
 *   EBP Chile
 *   Fraunhofer Chile
 
-# Lanzamiento:
-
-El lanzamiento del centro SEDA ocurrió en valdivia el 19 de diciembre de 2023, con la participación de importantes autoridades nacionales y regionales.
-El evento fue organizado por la Universidad Austral de Chile (UACH).
-
-![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
 
 [Repositorio SEDA](./Repositorio.html)
