@@ -4,6 +4,8 @@ layout: default
 
 # **Centro Nacional de Soluciones Energéticas Decentralizadas**
 
+[Misión y Visión](./Mision.html).
+
 [Noticias](./Noticias.html).
 
 [Repositorio SEDA](./another-page.html).
