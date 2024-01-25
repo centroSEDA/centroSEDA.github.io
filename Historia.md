@@ -2,18 +2,14 @@
 layout: default
 ---
 
-## Noticias SEDA
+# Historia SEDA
 
 
-## Comunicaciones sobre el lanzamiento de SEDA
+## Lanzamiento:
 
-[https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas](https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas/ ).
+El lanzamiento del centro SEDA ocurrió en valdivia el 19 de diciembre de 2023, con la participación de importantes autoridades nacionales y regionales.
+El evento fue organizado por la Universidad Austral de Chile (UACH).
 
-[https://energia.gob.cl/noticias/nacional/subsecretaria-de-energia-y-grupo-de-universidades-firma-convenio-y-crea-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde](https://energia.gob.cl/noticias/nacional/subsecretaria-de-energia-y-grupo-de-universidades-firma-convenio-y-crea-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde)
-
-[https://www.induambiente.com/crean-centro-de-investigacion-para-descentralizar-iniciativas-de-energias-renovables](https://www.induambiente.com/crean-centro-de-investigacion-para-descentralizar-iniciativas-de-energias-renovables)
-
-[https://www.reporteminero.cl/noticia/noticias/2023/12/crean-centro-descentralizar-iniciativas-energias-renovables-hidrogeno-verde](https://www.reporteminero.cl/noticia/noticias/2023/12/crean-centro-descentralizar-iniciativas-energias-renovables-hidrogeno-verde)
-
+![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
 
 [back](./)
