@@ -45,4 +45,4 @@ El evento fue organizado por la Universidad Austral de Chile (UACH).
 
 ![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
 
-[Repositorio SEDA](./another-page.html)
+[Repositorio SEDA](./Repositorio.html)
