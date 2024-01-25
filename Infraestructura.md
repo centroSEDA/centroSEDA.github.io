@@ -11,6 +11,7 @@ La infraestructura disponible para las actividades del centro SEDA se encuentra 
 Más de 150m2 de laboratorios solares
 
 * Comparación de módulos PV
+![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
 
 * Intrumentación para medición de indicadores de desempeño
 
