@@ -4,11 +4,9 @@ layout: default
 
 # **Centro Nacional de Soluciones Energéticas Decentralizadas**
 
-[Misión y Visión](./Mision.html).
+[Historia](./Historia.html)
 
-[Noticias](./Noticias.html).
-
-[Repositorio SEDA](./another-page.html).
+[Misión y Visión](./Mision.html)
 
 La Subsecretaría de Energía y la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile han recientemente firmado un convenio de colaboración y transferencia de recursos cuyo objetivo general es el establecimiento de una iniciativa permanente que se dedique a la innovación en soluciones energéticas descentralizadas, que permita impulsar el desarrollo en todas sus manifestaciones, con representación de las 16 regiones de nuestro territorio, con equipos de trabajo multidisciplinarios, con espíritu paritario y con enfoque de género, cuyo objeto es desplegar un trabajo colaborativo y conjunto con la finalidad de constituir el **_Centro de Soluciones Energéticas Descentralizadas Avanzadas (SEDA)_**.
 
@@ -48,3 +46,7 @@ El lanzamiento del centro SEDA ocurrió en valdivia el 19 de diciembre de 2023, 
 El evento fue organizado por la Universidad Austral de Chile (UACH).
 
 ![Lanzamiento](/assets/img/Lanzamiento_team.jpg)
+
+[Noticias](./Noticias.html)
+
+[Equipo](./Personal.html) [Infraestructura](./Infraestructura.html) [Repositorio SEDA](./another-page.html)
