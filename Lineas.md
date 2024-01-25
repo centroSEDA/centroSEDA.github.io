@@ -12,19 +12,12 @@ Así, las partes han fijado como líneas temáticas preliminares, las siguientes
  
 ##  Líneas Transversales.
  
-•	Hidrógeno:
-•	Aplicaciones en el sector productivo.
-•	Producción de hidrógeno
-•	Electromovilidad
-•	Sistemas:
-•	Soluciones para la flexibilidad del sistema e integración de energías renovables (Almacenamiento, volantes de inercia, condensadores sincrónicos, inversores gridforming, habilitación de mercados de corto plazo, etc.)
-•	Cooperación:
-•	Creación de esquemas de cooperación multi-institucional, interdisciplinaria, comunidades.
-•	Usos:
-•	Sistemas de bombeo
-•	Apoyo a cadenas productivas locales
-•	Otros:
-•	Reconversión de centrales térmicas
+*	Hidrógeno: Aplicaciones en el sector productivo, Producción de hidrógeno
+*	Electromovilidad
+*	Sistemas: Soluciones para la flexibilidad del sistema e integración de energías renovables (Almacenamiento, volantes de inercia, condensadores sincrónicos, inversores gridforming, habilitación de mercados de corto plazo, etc.)
+*	Cooperación: Creación de esquemas de cooperación multi-institucional, interdisciplinaria, comunidades.
+*	Usos: Sistemas de bombeo, Apoyo a cadenas productivas locales
+*	Otros: Reconversión de centrales térmicas
 
 ##  Región de Arica y Parinacota
 •	Recurso hidráulico
