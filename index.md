@@ -39,3 +39,6 @@ Las instituciones que han firmado el acurrdo de formación de SEDA son:
 *   Fraunhofer Chile
 
 [Repositorio SEDA](./Repositorio.html)
+
+## Testimonios
+.....
