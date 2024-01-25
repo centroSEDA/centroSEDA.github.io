@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Equipo SEDA
+#Equipo Administrativo
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -11,6 +11,7 @@ layout: default
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+#Equipo Técnico
 
 
 [back](./)
