@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Noticias SEDA
+# Noticias SEDA
 
 
-## Comunicaciones sobre el lanzamiento de SEDA
+## Lanzamiento de SEDA
 
 [https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas](https://centroenergia.cl/evento-de-lanzamiento-y-seminario-centro-seda-soluciones-energeticas-descentralizadas-avanzadas/ ).
 
