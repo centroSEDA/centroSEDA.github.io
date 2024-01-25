@@ -4,11 +4,9 @@ layout: default
 
 # Líneas de Temáticas de Acción
 
-Atendido su objetivo y su enfoque regional, las instituciones que contituyen SEDA han acordado fijar áreas de acción y/o trabajo mediante el establecimiento de líneas temáticas prioritarias propuestas por las instituciones que representan a cada una de las regiones involucradas en esta iniciativa. 
+Atendido su objetivo y su enfoque regional, las instituciones que contituyen SEDA han acordado fijar áreas de acción y/o trabajo mediante el establecimiento de líneas temáticas prioritarias propuestas por las instituciones que representan a cada una de las regiones involucradas en esta iniciativa. Atendida la definición en cuanto a que el SEDA forma parte de los ejes estratégicos de la Agenda Energética 2022 – 2026, también se incorporan dentro de los ejes a tratar aquellos propuestos por el Ministerio de Energía y que es concordante y/o transversal a las líneas temáticas regionales. 
  
-Sin perjuicio de lo anterior, y atendida la definición en cuanto a que el SEDA forma parte de los ejes estratégicos de la Agenda Energética 2022 – 2026, también se incorporan dentro de los ejes a tratar aquellos propuestos por el Ministerio de Energía y que, conforme a lo acordado por los suscribientes, es concordante y/o transversal a las líneas temáticas regionales. 
- 
-Así, las partes han fijado como líneas temáticas preliminares, las siguientes: 
+Así, las líneas temáticas son las siguientes: 
  
 ##  Líneas Transversales.
  
