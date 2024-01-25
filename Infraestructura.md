@@ -17,7 +17,7 @@ Más de 150m2 de laboratorios solares
 
 * Intrumentación para medición de indicadores de desempeño
 
-![Instrumentos](/assets/img/Inst.png)
+![Instrumentos](/assets/img/Instrument.png)
 
 
 * Sistemas de seguimiento en 1 y 2 ejes para medición de radiación y análisis de variables meteorológicas
