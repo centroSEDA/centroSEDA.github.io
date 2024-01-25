@@ -15,5 +15,6 @@ layout: default
 
 [https://www.reporteminero.cl/noticia/noticias/2023/12/crean-centro-descentralizar-iniciativas-energias-renovables-hidrogeno-verde](https://www.reporteminero.cl/noticia/noticias/2023/12/crean-centro-descentralizar-iniciativas-energias-renovables-hidrogeno-verde)
 
+[https://diario.uach.cl/subsecretaria-de-energia-y-universidades-firman-convenio-y-crean-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde/](https://diario.uach.cl/subsecretaria-de-energia-y-universidades-firman-convenio-y-crean-centro-para-descentralizar-iniciativas-de-energias-renovables-e-hidrogeno-verde/). 
 
 [back](./)
