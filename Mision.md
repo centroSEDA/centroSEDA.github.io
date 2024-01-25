@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Misión y Objetivos
+# Misión y Objetivos
 
 Las instituciones que conctituyen SEDA declaran que el objetivo será constituirse como un Centro Nacional, basado en la cooperación institucional y enfoque interdisciplinario, dedicado al desarrollo, impulso, investigación e innovación en torno a soluciones energéticas descentralizadas, necesarias para la transición energética del país. 
  
