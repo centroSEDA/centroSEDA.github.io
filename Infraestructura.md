@@ -18,7 +18,7 @@ Más de 150m2 de laboratorios solares
   
 * Sistemas bifaciales
   
-* Campo soalr térmico de 150m2, con diferentes tecnologías de captación
+* Campo solar térmico de 150m2, con diferentes tecnologías de captación
 
 * Laboratorio de almacenamiento térmico en sólidos
 
