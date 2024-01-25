@@ -1,6 +1,6 @@
 ---
 
-#Equipo Administrativo
+# Equipo Administrativo
 
 | Institución            | Nombre                |
 |:-----------------------|:----------------------|
@@ -12,7 +12,7 @@
 |                        | Dasla Pando           |
 |                        | Gabriel Guerrero      |
 
-#Equipo Técnico: Integrantes del equipo Equipo Multi-institucional e Interdisciplinario (EMI) al 8 de enero de 2024.
+# Equipo Técnico: Integrantes del equipo Equipo Multi-institucional e Interdisciplinario (EMI) al 8 de enero de 2024.
 
 | N° | Institución                | Nombre                     | Disciplina                    | Género    |
 |:---|:---------------------------|:---------------------------|:------------------------------|:----------|
