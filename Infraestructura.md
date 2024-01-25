@@ -8,7 +8,19 @@ La infraestructura disponible para las actividades del centro SEDA se encuentra 
 
 ## Pontificia Universidad Católica de Chile
 
+Más de 150m2 de laboratorios solares
 
+* Comparación de módulos PV
+
+* Intrumentación para medición de indicadores de desempeño
+
+* Sistemas de seguimiento en 1 y 2 ejes para medición de radiación y análisis de variables meteorológicas
+  
+* Sistemas bifaciales
+  
+* Campo soalr térmico de 150m2, con diferentes tecnologías de captación
+
+* Laboratorio de almacenamiento térmico en sólidos
 
 
 [back](./)
